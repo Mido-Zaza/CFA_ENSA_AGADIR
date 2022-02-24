@@ -4,3 +4,4 @@ matplotlib
 seaborn 
 pyxlsb 
 openpyxl
+xlsxwriter
