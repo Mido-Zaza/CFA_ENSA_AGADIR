@@ -8,7 +8,7 @@ from io import BytesIO
 from pyxlsb import open_workbook as open_xlsb
 from matplotlib.pyplot import figure
 figure(figsize=(10, 10), dpi=80)
-from IPython.display import set_matplotlib_formats
+#from IPython.display import set_matplotlib_formats
 set_matplotlib_formats('svg')
 import base64
 
